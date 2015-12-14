@@ -1,0 +1,8 @@
+The program is called lab_4.py
+
+It is run like so 
+	./python lab_4.py 20 10 10 2 10 lru 11
+
+Verbose is implemented so the final argument is required
+
+The random number file used is the same as in Lab 2

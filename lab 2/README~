@@ -1,0 +1,8 @@
+The main program is called main_program.sh, a shell script which when run, compiles and runs the main cpp programs.
+
+It is run like so
+	./main_program.sh <input_filename>
+or
+	./main_progam.sh --verbose <input_filename>
+	
+There are some sample input files in the submitted folder

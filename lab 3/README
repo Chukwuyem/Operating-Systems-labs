@@ -1,0 +1,4 @@
+the program file is named: lab_3.py
+
+it is run like so:
+	python lab_3.py input-filename --verbose

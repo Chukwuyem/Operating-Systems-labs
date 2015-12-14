@@ -1,0 +1,14 @@
+Student Name: Chukwuyem Onyibe Jotham
+NetID: cjo258
+
+README
+
+Instructions for running Lab 1.
+There is only one file called lab_one_pract.cpp.
+It is c++ file. It can be compiled without any C++11 extensions or the likes.
+It requires an input text file. The file can have any name.
+
+Just simply run --> 
+	~/$ g++ lab_one_pract.cpp -o lab_one
+then run --> 
+	~/$ ./lab_one [insert_input_filename_here].txt
